@@ -1,0 +1,12 @@
+type: code
+custom_name: Healthy sleep
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6811#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 03 Jan 2021 09:02:15 UTC
+record: -1
